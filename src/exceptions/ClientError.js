@@ -1,5 +1,3 @@
-/* eslint-disable indent */
-/* eslint-disable eol-last */
 class ClientError extends Error {
     constructor(message, statusCode = 400) {
         super(message);

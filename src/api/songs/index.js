@@ -1,5 +1,3 @@
-/* eslint-disable indent */
-/* eslint-disable eol-last */
 const SongsHandler = require('./handler');
 const routes = require('./routes');
 

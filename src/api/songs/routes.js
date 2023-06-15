@@ -1,4 +1,3 @@
-/* eslint-disable indent */
 const routes = (handler) => [
     {
         method: 'POST',

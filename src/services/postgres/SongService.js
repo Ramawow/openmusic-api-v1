@@ -1,9 +1,3 @@
-/* eslint-disable import/no-unresolved */
-/* eslint-disable import/extensions */
-/* eslint-disable object-curly-newline */
-/* eslint-disable eol-last */
-/* eslint-disable no-underscore-dangle */
-/* eslint-disable indent */
 const { Pool } = require('pg');
 const { nanoid } = require('nanoid');
 const InvariantError = require('../../exceptions/InvariantError');

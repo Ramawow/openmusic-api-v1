@@ -1,13 +1,3 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable import/no-unresolved */
-/* eslint-disable import/order */
-/* eslint-disable object-shorthand */
-/* eslint-disable no-underscore-dangle */
-/* eslint-disable semi */
-/* eslint-disable eol-last */
-/* eslint-disable camelcase */
-/* eslint-disable comma-dangle */
-/* eslint-disable indent */
 const autoBind = require('auto-bind');
 
 class AlbumsHandler {

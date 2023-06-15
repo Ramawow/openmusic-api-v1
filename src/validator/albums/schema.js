@@ -1,5 +1,3 @@
-/* eslint-disable indent */
-/* eslint-disable eol-last */
 const Joi = require('joi');
 
 const AlbumPayLoadSchema = Joi.object({

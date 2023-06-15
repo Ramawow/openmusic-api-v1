@@ -1,16 +1,3 @@
-/* eslint-disable operator-linebreak */
-/* eslint-disable no-unused-vars */
-/* eslint-disable import/no-unresolved */
-/* eslint-disable import/order */
-/* eslint-disable comma-dangle */
-/* eslint-disable object-curly-newline */
-/* eslint-disable max-len */
-/* eslint-disable camelcase */
-/* eslint-disable object-shorthand */
-/* eslint-disable no-underscore-dangle */
-/* eslint-disable semi */
-/* eslint-disable indent */
-/* eslint-disable eol-last */
 const autoBind = require('auto-bind');
 
 class SongsHandler {

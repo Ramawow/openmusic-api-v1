@@ -1,7 +1,3 @@
-/* eslint-disable import/extensions */
-/* eslint-disable import/no-unresolved */
-/* eslint-disable eol-last */
-/* eslint-disable comma-dangle */
 require('dotenv').config();
 
 const Hapi = require('@hapi/hapi');
